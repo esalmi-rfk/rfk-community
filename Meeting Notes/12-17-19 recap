@@ -1,0 +1,13 @@
+Notes Recap from December 17 Meeting
+Returning Members: Erik S., Nick S., Hayden, Dhruv
+New Members: Evan, Tim + a few others who floated in or out
+
+Research Team: Focused in on efforts to scale map items in proportion to the space. These will need to be fine-tuned once we know the map’s own size and the size of individual markers. Also discussed creating a basic level of output (housing units created, retail created, park space created, etc) as well as a more advanced version that could factor in anticipated tax revenue or cost (depending on how much of any given item was chosen). Evan emphasized for building on backend it would be easier to know everything that needed to be included all at once. Research team will focus on finalizing a list of items that could possibly be mapped. 
+Erik is working to get Hayden final text for survey. 
+
+Tech + Design teams: Hayden worked on getting the survey live, including purchasing a URL and hosting. Dhruv, Evan, Tim, and Hayden will be pivoting to map building next. Some discussion on moving to Node from Django based on the group’s familiarity with the former. 
+Tim has GIS experience and thinking through how the map could be built, recognizing an overarching goal of accessibility. 
+Evan interested in taking lead on building out the back-end. 
+All tickets and tasks will still go through Trello. 
+
+Next meeting aiming for early January.  
