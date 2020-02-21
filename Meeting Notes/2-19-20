@@ -1,0 +1,15 @@
+2-19-20 - Pitched at Project Night
+
+Main focus was around the actual mechanics of the map. How do we build it and what code should we use? 
+
+Added Neal (UX), Jonathon to Firebase
+
+UrbanSims - Pasha found code resource in Python. Likely too advanced, but perhaps some good code to borrow? 
+
+Neal - recommends Javascript since it is a web native 
+Neal - has a React JS library with various drag and drop options 
+
+Greg - 3JS | JavaScript that goes JS 3D, 
+Open GL 
+
+Discussion around phone compatibility. Ultimately needs to be good on desktop first, phone is a bonus. Also discussed drag and drop versus drop-down menu for accessibility. 
